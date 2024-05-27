@@ -18,10 +18,14 @@
 #
 #  - board: nice_nano_v2
 #    shield: settings_reset
+#  - board: nice_nano_v2
+#    shield: skeletyl_right
+#  - board: nice_nano_v2
+#    shield: skeletyl_left
 ---
 include:
 
   - board: nice_nano_v2
-    shield: skeletyl_left
+    shield: corne_left
   - board: nice_nano_v2
-    shield: skeletyl_right
+    shield: corne_right
